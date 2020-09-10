@@ -94,7 +94,7 @@
     "gulp-size": "~1.1.0",
     "gulp-uglify": "3.0.0",
     "gulp-useref": "~1.0.2",
-    "http-proxy": "~1.7.0",
+    "http-proxy": "~1.18.1",
     "jshint-stylish": "~1.0.0",
     "karma-spec-reporter": "0.0.26",
     "main-bower-files": "~2.4.0",
